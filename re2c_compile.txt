@@ -1,0 +1,12 @@
+Compile re2c:
+https://epics.anl.gov/tech-talk/2018/msg00238.php
+
+Build on Ming:
+https://epics.anl.gov/tech-talk/2018/msg00221.php
+
+Compile with mingw:
+https://ci.appveyor.com/project/FreddieAkeroyd/re2c
+LDFLAGS='-static -static-libgcc -static-libstdc++'
+
+Binary re2c:
+https://ci.appveyor.com/project/FreddieAkeroyd/re2c/build/artifacts
