@@ -1,4 +1,5 @@
-"# windowsEPICS" 
+# windows EPICS compilation
+
 - Git download: https://git-scm.com/download/win";
 - Strawberry perl: ;
 - Make: gnu make v4.2.1;
